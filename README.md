@@ -2,7 +2,7 @@
 
 This twitter bot can tweet current Bitcoin value in USD on your developer twitter account. 
 
-I am using it on this account. [@value_btc](https://twitter.com/value_btc)
+I am using it on this account. [@value_btc](https://twitter.com/value_btc){:target="_blank" rel="noopener"}
 
 ## Usage
 
